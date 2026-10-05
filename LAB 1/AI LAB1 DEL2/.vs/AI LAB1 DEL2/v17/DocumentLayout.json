@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\search.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\search.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\graph.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\graph.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AI LAB1 DEL2\\search.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "search.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\search.c",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\search.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\search.c",
+              "RelativeToolTip": "AI LAB1 DEL2\\search.c",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T21:34:19.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "graph.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\graph.c",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\graph.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\graph.c",
+              "RelativeToolTip": "AI LAB1 DEL2\\graph.c",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T21:32:26.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\list.c",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\list.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\list.c",
+              "RelativeToolTip": "AI LAB1 DEL2\\list.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T21:31:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\main.c",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\main.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\main.c",
+              "RelativeToolTip": "AI LAB1 DEL2\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-02-03T21:31:19.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\list.h",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\list.h",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\list.h",
+              "RelativeToolTip": "AI LAB1 DEL2\\list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T21:30:08.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "search.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\search.h",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\search.h",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\search.h",
+              "RelativeToolTip": "AI LAB1 DEL2\\search.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T21:29:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "graph.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\graph.h",
+              "RelativeDocumentMoniker": "AI LAB1 DEL2\\graph.h",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\AI LAB1 DEL2\\AI LAB1 DEL2\\graph.h",
+              "RelativeToolTip": "AI LAB1 DEL2\\graph.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T21:28:51.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

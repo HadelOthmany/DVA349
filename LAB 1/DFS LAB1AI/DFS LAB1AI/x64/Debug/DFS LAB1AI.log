@@ -1,0 +1,7 @@
+﻿  node.c
+  dfs_knapsack.c
+  main.c
+  stack.c
+  Generating Code...
+C:\Users\hadel\source\repos\DFS LAB1AI\DFS LAB1AI\stack.c(17,3): warning C4013: 'printf' undefined; assuming extern returning int
+  DFS LAB1AI.vcxproj -> C:\Users\hadel\source\repos\DFS LAB1AI\x64\Debug\DFS LAB1AI.exe

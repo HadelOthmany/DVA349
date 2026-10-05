@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\dfs_knapsack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS LAB1AI\\dfs_knapsack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\dfs_knapsack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS LAB1AI\\dfs_knapsack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS LAB1AI\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS LAB1AI\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS LAB1AI\\stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS LAB1AI\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "node.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\node.c",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.c",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\node.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-27T07:32:55.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\main.c",
+              "RelativeDocumentMoniker": "DFS LAB1AI\\main.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\main.c",
+              "RelativeToolTip": "DFS LAB1AI\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-27T09:28:30.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dfs_knapsack.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\dfs_knapsack.h",
+              "RelativeDocumentMoniker": "DFS LAB1AI\\dfs_knapsack.h",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\dfs_knapsack.h",
+              "RelativeToolTip": "DFS LAB1AI\\dfs_knapsack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T09:08:14.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dfs_knapsack.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\dfs_knapsack.c",
+              "RelativeDocumentMoniker": "DFS LAB1AI\\dfs_knapsack.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\dfs_knapsack.c",
+              "RelativeToolTip": "DFS LAB1AI\\dfs_knapsack.c",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-27T09:06:27.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "node.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\node.h",
+              "RelativeDocumentMoniker": "DFS LAB1AI\\node.h",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\node.h",
+              "RelativeToolTip": "DFS LAB1AI\\node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T07:42:23.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\stack.h",
+              "RelativeDocumentMoniker": "DFS LAB1AI\\stack.h",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\stack.h",
+              "RelativeToolTip": "DFS LAB1AI\\stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T07:34:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stack.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\stack.c",
+              "RelativeDocumentMoniker": "DFS LAB1AI\\stack.c",
+              "ToolTip": "C:\\Users\\hadel\\source\\repos\\DFS LAB1AI\\DFS LAB1AI\\stack.c",
+              "RelativeToolTip": "DFS LAB1AI\\stack.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-27T07:34:10.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

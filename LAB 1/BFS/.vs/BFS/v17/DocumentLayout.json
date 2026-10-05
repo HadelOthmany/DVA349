@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hadel\\source\\repos\\BFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\knapsack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\knapsack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "node.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\node.c",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.c",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\node.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T13:13:59.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "node.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\node.h",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\node.h",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T13:19:06.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "knapsack.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\knapsack.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\knapsack.h",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\knapsack.h",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\knapsack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T13:19:01.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "knapsack.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\knapsack.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\knapsack.c",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\knapsack.c",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\knapsack.c",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T13:12:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "queue.h",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\queue.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\queue.h",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\queue.h",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T13:05:34.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "queue.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\queue.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\queue.c",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\queue.c",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\queue.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T12:56:58.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LAB1 AI\\main.c",
+              "ToolTip": "C:\\Users\\hadel\\Desktop\\LAB1 AI\\main.c",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LAB1 AI\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-26T12:56:53.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
